@@ -1,0 +1,4 @@
+com/ly/permission/PermissionPlugin.java
+ com.ly.permission.PermissionPlugin
+com/ly/permission/BuildConfig.java
+ com.ly.permission.BuildConfig

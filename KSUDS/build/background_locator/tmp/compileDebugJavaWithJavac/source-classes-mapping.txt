@@ -1,0 +1,2 @@
+rekab/app/background_locator/BuildConfig.java
+ rekab.app.background_locator.BuildConfig
