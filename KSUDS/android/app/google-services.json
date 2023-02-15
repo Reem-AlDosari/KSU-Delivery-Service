@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "986807902398",
+    "project_id": "ksuds-ace75",
+    "storage_bucket": "ksuds-ace75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986807902398:android:dd79d785f3362ddacf3eef",
+        "android_client_info": {
+          "package_name": "com.example.kcds"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986807902398-q1tha7vpmadqa7cknqf1sm2g51thveck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjLebpOHjDUL64tGpuBei2JVJGG32NQWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986807902398-q1tha7vpmadqa7cknqf1sm2g51thveck.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "986807902398-4oekdkje4bq95hq2156t7ft07r206isc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ksu.ksuds"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
